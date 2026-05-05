@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Testing
+.pytest_cache/
+
+# Build / binaries
+build/
+*.pyd
+*.dll
+*.so
+
+# Data (optional)
+data/
+
+# OS
+.DS_Store
+Thumbs.db
