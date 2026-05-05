@@ -13,11 +13,6 @@ The project is designed as demo-ready lab: it shows the full chain from syntheti
 ---
 
 ## What This Project Does
-## 🎬 Demo
-
-<p align="center">
-  <img src="rf_bearing_demo.gif.gif" width="800">
-</p>
 
 The demo follows this processing chain:
 
