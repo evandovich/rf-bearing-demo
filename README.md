@@ -16,6 +16,7 @@ The project is designed as demo-ready lab: it shows the full chain from syntheti
 
 ![RF Bearing Demo](assets/rf_bearing_demo.gif)
 
+
 The demo follows this processing chain:
 
 ```text
